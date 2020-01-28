@@ -1,0 +1,3 @@
+hola esta es mi primera practrica usando git
+integrantes:
+Lozano portilla Anthony  
